@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-start" />
+        <module name="flink-sql" />
+        <module name="flink-action" />
+        <module name="flink-api" />
+        <module name="flink-core" />
+        <module name="redis-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink-action" target="1.8" />
+      <module name="flink-api" target="1.8" />
+      <module name="flink-core" target="1.8" />
+      <module name="flink-sql" target="1.8" />
+      <module name="flink-start" target="1.8" />
+      <module name="itcast-flink" target="1.5" />
+      <module name="redis-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

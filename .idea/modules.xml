@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-action/flink-action.iml" filepath="$PROJECT_DIR$/flink-action/flink-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-api/flink-api.iml" filepath="$PROJECT_DIR$/flink-api/flink-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-core/flink-core.iml" filepath="$PROJECT_DIR$/flink-core/flink-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql/flink-sql.iml" filepath="$PROJECT_DIR$/flink-sql/flink-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-start/flink-start.iml" filepath="$PROJECT_DIR$/flink-start/flink-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/itcast-flink.iml" filepath="$PROJECT_DIR$/.idea/itcast-flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/redis-client/redis-client.iml" />
+    </modules>
+  </component>
+</project>
